@@ -1,0 +1,1 @@
+The code is the implementation of extract, transform, and load (ETL) process to prepare sales data from an online storefront for later analysis and modeling.

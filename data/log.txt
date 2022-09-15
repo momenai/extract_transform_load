@@ -1,0 +1,81 @@
+2022-09-15 16:12-17   Connected to SQLite, to data/user_data.db
+2022-09-15 16:12-17   ETL Job Started
+2022-09-15 16:12-17   Extract phase Started
+2022-09-15 16:12-17   Extract phase Ended Successfully
+2022-09-15 16:12-17   Transform phase Started
+2022-09-15 16:12-17   Transform phase Ended
+2022-09-15 16:12-17   Load phase Started
+2022-09-15 16:12-17   Load phase Ended Successfully
+
+
+2022-09-15 16:12-17   The sqlite connection is closed
+2022-09-15 16:14-26   Connected to SQLite, to data/user_data.db
+2022-09-15 16:14-26   ETL Job Started
+2022-09-15 16:14-26   Extract phase Started
+2022-09-15 16:14-26   Extract phase Ended Successfully
+2022-09-15 16:14-26   Transform phase Started
+2022-09-15 16:14-26   Transform phase Ended
+2022-09-15 16:14-26   Load phase Started
+2022-09-15 16:14-26   The sqlite connection is closed
+2022-09-15 16:14-55   Connected to SQLite, to data/user_data.db
+2022-09-15 16:14-55   ETL Job Started
+2022-09-15 16:14-55   Extract phase Started
+2022-09-15 16:14-55   Extract phase Ended Successfully
+2022-09-15 16:14-55   Transform phase Started
+2022-09-15 16:14-56   Transform phase Ended
+2022-09-15 16:14-56   Load phase Started
+2022-09-15 16:14-56   Load phase Ended Successfully
+
+
+2022-09-15 16:14-56   The sqlite connection is closed
+2022-09-15 16:15-54   Connected to SQLite, to data/user_data.db
+2022-09-15 16:15-54   ETL Job Started
+2022-09-15 16:15-54   Extract phase Started
+2022-09-15 16:15-54   Extract phase Ended Successfully
+2022-09-15 16:15-54   Transform phase Started
+2022-09-15 16:15-54   Transform phase Ended
+2022-09-15 16:15-54   Load phase Started
+2022-09-15 16:15-54   Load phase Ended Successfully
+
+
+2022-09-15 16:15-54   Load phase Ended
+2022-09-15 16:15-54   ETL ended successfully
+2022-09-15 16:15-54   The sqlite connection is closed
+2022-09-15 16:16-16   Connected to SQLite, to data/user_data.db
+2022-09-15 16:16-16   ETL Job Started
+2022-09-15 16:16-16   Extract phase Started
+2022-09-15 16:16-16   Extract phase Ended Successfully
+2022-09-15 16:16-16   Transform phase Started
+2022-09-15 16:16-16   Transform phase Ended
+2022-09-15 16:16-16   Load phase Started
+2022-09-15 16:16-16   Load phase Ended Successfully
+
+
+2022-09-15 16:16-16   Load phase Ended
+2022-09-15 16:16-16   ETL ended successfully
+2022-09-15 16:16-16   The sqlite connection is closed
+2022-09-15 16:16-44   Connected to SQLite, to data/user_data.db
+2022-09-15 16:16-44   ETL Job Started
+2022-09-15 16:16-44   Extract phase Started
+2022-09-15 16:16-44   Extract phase Ended Successfully
+2022-09-15 16:16-44   Transform phase Started
+2022-09-15 16:16-44   Transform phase Ended
+2022-09-15 16:16-44   Load phase Started
+2022-09-15 16:16-44   Load phase Ended Successfully
+
+
+2022-09-15 16:16-44   Load phase Ended
+2022-09-15 16:16-44   ETL ended successfully
+2022-09-15 16:16-44   The sqlite connection is closed
+2022-09-15 16:17-47   Connected to SQLite, to data/user_data.db
+2022-09-15 16:17-47   ETL Job Started
+2022-09-15 16:17-47   Extract phase Started
+2022-09-15 16:17-47   Extract phase Ended Successfully
+2022-09-15 16:17-47   Transform phase Started
+2022-09-15 16:17-48   Transform phase Ended
+2022-09-15 16:17-48   Load phase Started
+2022-09-15 16:17-48   Load phase Ended Successfully
+
+
+2022-09-15 16:17-48   ETL ended successfully
+2022-09-15 16:17-48   The sqlite connection is closed
